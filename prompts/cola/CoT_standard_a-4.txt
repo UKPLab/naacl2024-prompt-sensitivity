@@ -1,0 +1,12 @@
+How much harder has it rained, the faster a flow you see in the river?
+Let's think step by step. This sentence is grammatical, so the answer is 1.
+
+The more obnoxious Fred, the less attention you should pay to him.
+Let's think step by step. This sentence is ungrammatical because it uses "the more obnoxious Fred" as an introductory phrase without a proper main clause and it lacks a predicate, making it incomplete and grammatically incorrect. So the answer is 0.
+
+I'm glad I saw anybody.
+Let's think step by step. This sentence is ungrammatical because "anybody" is used as the object in an affirmative clause. So the answer is 0.
+
+Julie and Jenny arrived first
+Let's think step by step. This sentence is grammatical, so the answer is 1.
+

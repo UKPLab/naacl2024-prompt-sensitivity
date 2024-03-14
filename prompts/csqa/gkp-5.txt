@@ -1,0 +1,25 @@
+Knowledge: Electronic maps are the modern version of paper atlas.
+Input: Google Maps and other highway and street GPS services have replaced what?
+Options: (0) united states, (1) mexico, (2) countryside, (3) atlas, (4) oceans
+Output: 3
+
+Knowledge: Natural habitats are usually away from cities.
+Input: The fox walked from the city into the forest, what was it looking for?
+Options: (0) natural habitat, (1) pretty flowers, (2) hen house, (3) storybook, (4) dense forest
+Output: 0
+
+Knowledge: Files can be shared over the Internet.
+Input: You can share files with someone if you have a connection to a what?
+Options: (0) freeway, (1) radio, (2) computer network, (3) wires, (4) electrical circuit
+Output: 2
+
+Knowledge: Some people raise snakes as pets.
+Input: Too many people want exotic snakes. The demand is driving what to carry them?
+Options: (0) ditch, (1) shop, (2) north america, (3) outdoors, (4) pet shops
+Output: 4
+
+Knowledge: The job of body guards is to ensure the safety and security of the employer.
+Input: The body guard was good at his duties, he made the person who hired him what?
+Options: (0) better job, (1) feel safe, (2) irritated, (3) save money, (4) headache
+Output: 4
+

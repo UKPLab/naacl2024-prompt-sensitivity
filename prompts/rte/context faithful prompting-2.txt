@@ -1,0 +1,8 @@
+Bob said, "sentence 1 is 'The Federal Bureau of Investigation started an independent probe of the circumstances shortly after the White House made plain that President Bill Clinton considered industrial espionage a particular threat to US economic interests.', and sentence 2 is 'President Clinton thinks that industrial espionage is a threat to America's well being.'"
+QUESTION: Are the two sentences (0) entailment, or (1) not_entailment in Bob's opinion?
+ANSWER: 0
+
+Bob said, "sentence 1 is 'Vanunu, 49, was abducted by Israeli agents and convicted of treason in 1986 after discussing his work as a mid-level Dimona technician with Britain's Sunday Times newspaper.', and sentence 2 is 'Vanunu's disclosures in 1968 led experts to conclude that Israel has a stockpile of nuclear warheads.'"
+QUESTION: Are the two sentences (0) entailment, or (1) not_entailment in Bob's opinion?
+ANSWER: 1
+

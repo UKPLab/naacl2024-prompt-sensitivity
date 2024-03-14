@@ -1,0 +1,12 @@
+SENTENCE: How much harder has it rained, the faster a flow you see in the river? The answer is 1.
+ANSWER: 1
+
+SENTENCE: The more obnoxious Fred, the less attention you should pay to him. The answer is 0.
+ANSWER: 0
+
+SENTENCE: I'm glad I saw anybody. The answer is 0.
+ANSWER: 0
+
+SENTENCE: Julie and Jenny arrived first. The answer is 1.
+ANSWER: 1
+

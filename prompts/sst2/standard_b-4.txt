@@ -1,0 +1,16 @@
+SENTENCE: None of this is meaningful or memorable , but frosting is n't , either , and you would n't turn down a big bowl of that , would you ?
+QUESTION: Is this (0) negative, or (1) positive?
+ANSWER: 0
+
+SENTENCE: A reasonably entertaining sequel to 1994 's surprise family hit that may strain adult credibility .
+QUESTION: Is this (0) negative, or (1) positive?
+ANSWER: 1
+
+SENTENCE: Strangely comes off as a kingdom more mild than wild .
+QUESTION: Is this (0) negative, or (1) positive?
+ANSWER: 1
+
+SENTENCE: For almost the first two-thirds of Martin Scorsese 's 168-minute Gangs of New York , I was entranced .
+QUESTION: Is this (0) negative, or (1) positive?
+ANSWER: 0
+

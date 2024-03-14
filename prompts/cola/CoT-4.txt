@@ -1,0 +1,16 @@
+SENTENCE: How much harder has it rained, the faster a flow you see in the river?
+QUESTION: Is this (0) unacceptable, or (1) acceptable?
+ANSWER: Let's think step by step. This sentence is grammatical, so the answer is 1.
+
+SENTENCE: The more obnoxious Fred, the less attention you should pay to him.
+QUESTION: Is this (0) unacceptable, or (1) acceptable?
+ANSWER: Let's think step by step. This sentence is ungrammatical because it uses "the more obnoxious Fred" as an introductory phrase without a proper main clause and it lacks a predicate, making it incomplete and grammatically incorrect. So the answer is 0.
+
+SENTENCE: I'm glad I saw anybody.
+QUESTION: Is this (0) unacceptable, or (1) acceptable?
+ANSWER: Let's think step by step. So the answer is 0. This sentence is ungrammatical because "anybody" is used as the object in an affirmative clause. So the answer is 0.
+
+SENTENCE: Julie and Jenny arrived first
+QUESTION: Is this (0) unacceptable, or (1) acceptable?
+ANSWER: Let's think step by step. This sentence is grammatical, so the answer is 1.
+

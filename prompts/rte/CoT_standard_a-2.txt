@@ -1,0 +1,8 @@
+The Federal Bureau of Investigation started an independent probe of the circumstances shortly after the White House made plain that President Bill Clinton considered industrial espionage a particular threat to US economic interests.
+President Clinton thinks that industrial espionage is a threat to America's well being.
+Let's think step by step. The first sentence provides information about President Clinton's belief, which directly leads to the FBI conducting an investigation. Therefore, the second sentence necessarily follows the information provided in the first sentence. So the answer is 0.
+
+Vanunu, 49, was abducted by Israeli agents and convicted of treason in 1986 after discussing his work as a mid-level Dimona technician with Britain's Sunday Times newspaper.
+Vanunu's disclosures in 1968 led experts to conclude that Israel has a stockpile of nuclear warheads.
+Let's think step by step. In sentence 1, it is stated that Vanunu was convicted of treason after discussing his work as a technician with the newspaper. This does not necessarily mean that he disclosed information about Israel's stockpile of nuclear warheads. So the answer is 1.
+

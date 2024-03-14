@@ -1,0 +1,16 @@
+SENTENCE: None of this is meaningful or memorable , but frosting is n't , either , and you would n't turn down a big bowl of that , would you ?
+QUESTION: Is this (0) negative, or (1) positive?
+ANSWER: Let's think step by step. "None of this is meaningful or memorable" suggests that whatever is being referred to is not significant or noteworthy, indicating a negative sentiment. So the answer is 0.
+
+SENTENCE: A reasonably entertaining sequel to 1994 's surprise family hit that may strain adult credibility .
+QUESTION: Is this (0) negative, or (1) positive?
+ANSWER: Let's think step by step. The sentence describes the sequel as reasonably entertaining, which is a positive aspect. So the answer is 1.
+
+SENTENCE: Strangely comes off as a kingdom more mild than wild .
+QUESTION: Is this (0) negative, or (1) positive?
+ANSWER: Let's think step by step. The sentence starts with "Strangely," which suggests that something unexpected or surprising is going to be described. The phrase "comes off as a kingdom more mild than wild" implies that the kingdom is not as wild or chaotic as one might expect. So the answer is 1.
+
+SENTENCE: For almost the first two-thirds of Martin Scorsese 's 168-minute Gangs of New York , I was entranced .
+QUESTION: Is this (0) negative, or (1) positive?
+ANSWER: Let's think step by step. The word "entranced" seems to express a positive feeling, but that is only for the first two-thirds of the movie, which implies that the rest of the movie is bad. So the answer is 0.
+

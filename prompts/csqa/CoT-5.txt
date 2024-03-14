@@ -1,0 +1,20 @@
+SENTENCE: Google Maps and other highway and street GPS services have replaced what?
+QUESTION: Is it (0) united states, (1) mexico, (2) countryside, (3) atlas, (4) oceans?
+ANSWER: Let's think step by step. Google Maps and other highway and street GPS services help people find their location and navigate streets and highways, and atlas is a software that is designed to help users navigate. So the answer is 3.
+
+SENTENCE: The fox walked from the city into the forest, what was it looking for?
+QUESTION: Is it (0) natural habitat, (1) pretty flowers, (2) hen house, (3) storybook, (4) dense forest?
+ANSWER: Let's think step by step. The fox was walking from the city into the forest. It is likely that the fox was looking for its natural habitat. So the answer is 0.
+
+SENTENCE: You can share files with someone if you have a connection to a what?
+QUESTION: Is it (0) freeway, (1) radio, (2) computer network, (3) wires, (4) electrical circuit?
+ANSWER: Let's think step by step. To share files with someone, we need to have the same type of connection or network. So the answer is 2.
+
+SENTENCE: Too many people want exotic snakes. The demand is driving what to carry them?
+QUESTION: Is it (0) ditch, (1) shop, (2) north america, (3) outdoors, (4) pet shops?
+ANSWER: Let's think step by step. Exotic snakes are not found outdoors. So the answer is 4.
+
+SENTENCE: The body guard was good at his duties, he made the person who hired him what?
+QUESTION: Is it (0) better job, (1) feel safe, (2) irritated, (3) save money, (4) headache?
+ANSWER: Let's think step by step. The bodyguard made the person who hired him feel safe. So the answer is 1.
+

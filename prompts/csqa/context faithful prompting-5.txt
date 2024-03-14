@@ -1,0 +1,20 @@
+Bob said, "Google Maps and other highway and street GPS services have replaced what?"
+QUESTION: Is it (0) united states, (1) mexico, (2) countryside, (3) atlas, (4) oceans in Bob's opinion?
+ANSWER: 3
+
+Bob said, "The fox walked from the city into the forest, what was it looking for?"
+QUESTION: Is it (0) natural habitat, (1) pretty flowers, (2) hen house, (3) storybook, (4) dense forest in Bob's opinion?
+ANSWER: 0
+
+Bob said, "You can share files with someone if you have a connection to a what?"
+QUESTION: Is it (0) freeway, (1) radio, (2) computer network, (3) wires, (4) electrical circuit in Bob's opinion?
+ANSWER: 2
+
+Bob said, "Too many people want exotic snakes. The demand is driving what to carry them?"
+QUESTION: Is it (0) ditch, (1) shop, (2) north america, (3) outdoors, (4) pet shops in Bob's opinion?
+ANSWER: 4
+
+Bob said, "The body guard was good at his duties, he made the person who hired him what?"
+QUESTION: Is it (0) better job, (1) feel safe, (2) irritated, (3) save money, (4) headache in Bob's opinion?
+ANSWER: 1
+

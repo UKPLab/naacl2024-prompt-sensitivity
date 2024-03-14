@@ -1,0 +1,12 @@
+SENTENCE: A family of 12 monkeys collected 10 piles of bananas. 6 piles had 9 hands, with each hand having 14 bananas, while the remaining piles had 12 hands, with each hand having 9 bananas. How many bananas would each monkey get if they divide the bananas equally amongst themselves?
+ANSWER: Let's think step by step. The first 6 bunches had 6x9x14=756 bananas. There were 10-6=4 remaining bunches. The 4 remaining bunches had 4x12x9=432 bananas. All together, there were 756+432=1188 bananas Each monkey would get 1188/12=99 bananas. So the answer is 99.
+
+SENTENCE: Every hour Joanne has to collect the coins out of the fountain inside the mall. During the first hour, she collected 15 coins. For the next two hours, she collected 35 coins from the fountain. In the fourth hour, she collected 50 coins from the fountain but she gave 15 of them to her coworker so she could buy a soda. How many coins did she have after the fourth hour?
+ANSWER: Let's think step by step. 15 coins collected in hour one 35 coins collected in hour two 35 coins collected in hour three 50 coins collected in hour four Before giving her coworker some coins there were 15+35+35+50=135 coins The number of coins after given 15 to her coworker is 135-15=120. So the answer is 120.
+
+SENTENCE: Sally and Bob have made plans to go on a trip at the end of the year. They both decide to work as babysitters and save half of what they've earned for their trip. If Sally makes $6 per day and Bob makes $4 per day, how much money will they both have saved for their trip after a year?
+ANSWER: Let's think step by step. Saly saves 1/2 * $6/day = 3/day. Since each year have 365 days, the total amount of money Sally will save in a year is $3/day * 365 days/year = 1095/year. Bob saves 1/2 * $4/day = 2/day. The total amount of money Bob will have saved in a year is $2/day * 365 days/year = 730/year In total, Sally and Bob would have saved $730 + $1095 = 1825. So the answer is 1825.
+
+SENTENCE: Lee mows one lawn and charges $33. Last week he mowed 16 lawns and three customers each gave him a $10 tip. How many dollars did Lee earn mowing lawns last week?
+ANSWER: Let's think step by step. 33*16=528, 3*10=30, and 528+30=558, so Lee earned $558 mowing lawns last week. So the answer is 558.
+

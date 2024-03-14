@@ -1,0 +1,12 @@
+Bob said, "sentence 1 is 'He thought about ways to achieve this life goal for a long time, which means until he learned the basics of text editing, which happened at his first job at a firm trading in plastic bags landfill disposal permits,' and sentence 2 is 'He thought about ways to achieve his life goals for a long time.'"
+QUESTION: Are the two sentences (0) contradiction, (1) entailment, or (2) neutral in Bob's opinion?
+ANSWER: 1
+
+Bob said, "sentence 1 is 'What have you, my friend, he cried, "that you remain there like, how do you say it?, ah, yes, the stuck pig?" I explained that I was afraid of obliterating any foot-marks,' and sentence 2 is 'I didn't say anything when he asked me that question.'"
+QUESTION: Are the two sentences (0) contradiction, (1) entailment, or (2) neutral in Bob's opinion?
+ANSWER: 0
+
+Bob said, "sentence 1 is 'It assumes for cost-of-service areas (where most of power sales are likely to occur) that allowance allocations will not alter pricing of electricity,' and sentence 2 is 'Allowance allocations will definitely not alter the pricing of electricity in cost-of-service areas.'"
+QUESTION: Are the two sentences (0) contradiction, (1) entailment, or (2) neutral in Bob's opinion?
+ANSWER: 2
+

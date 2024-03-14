@@ -1,0 +1,14 @@
+Instruction: determine whether each sentence was (1) acceptable or (0) unacceptable based on its structure and grammar.
+
+Input: How much harder has it rained, the faster a flow you see in the river?
+Output: 1
+
+Input: The more obnoxious Fred, the less attention you should pay to him.
+Output: 0
+
+Input: I'm glad I saw anybody.
+Output: 0
+
+Input: Julie and Jenny arrived first
+Output: 1
+
