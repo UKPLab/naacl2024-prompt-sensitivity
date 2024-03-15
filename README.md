@@ -10,19 +10,19 @@ https://www.ukp.tu-darmstadt.de/
 
 https://www.tu-darmstadt.de/
 
-## inference
+## Inference
 See [inference.ipynb](https://github.com/boblus/prompt-sensitivity/blob/main/inference.ipynb) for the inference code.
 
-## saliency scores
+## Saliency scores
 See [saliency.ipynb](https://github.com/boblus/prompt-sensitivity/blob/main/saliency.ipynb) for the calculation of gradient-based saliency scores ([Simonyan et al., 2013](https://arxiv.org/abs/1312.6034); [Li et al., 2016](https://aclanthology.org/N16-1082/); [Yin and Neubig, 2022](https://aclanthology.org/2022.emnlp-main.14/)).
 
-## sensitivity-aware decoding
+## Sensitivity-aware decoding
 See [sensitivity_aware_decoding.ipynb](https://github.com/boblus/prompt-sensitivity/blob/main/sensitivity_aware_decoding.ipynb) for the implementation of sensitivity-aware decoding.
 
-## evaluation scores
+## Evaluation scores
 See [evaluation_scores.csv](https://github.com/boblus/prompt-sensitivity/blob/main/evaluation_scores.csv) and [evaluation_scores - greedy_decoding.csv](https://github.com/boblus/prompt-sensitivity/blob/main/evaluation_scores%20-%20greedy_decoding.csv) for the full evaluation scores.
 
-## citation
+## Citation
 Please use the following citation:
 
 ```
@@ -34,5 +34,5 @@ Please use the following citation:
 }
 ```
 
-## disclaimer
+## Disclaimer
 This repository contains experimental software and is published for the sole purpose of giving additional background details on the respective publication.
