@@ -28,11 +28,8 @@ pad_tokens = {
     'google/flan-t5-small': '<pad>',
     'google/flan-t5-large': '<pad>',
     'google/flan-t5-xxl': '<pad>',
-    '/storage/ukp/shared/shared_model_weights/models--llama/7B': '<unk>',
-    '/storage/ukp/shared/shared_model_weights/models--llama/13B': '<unk>',
-    '/storage/ukp/shared/shared_model_weights/models--llama/30B': '<unk>',
-    '/storage/ukp/shared/shared_model_weights/models--llama-2-hf/7B-Chat': '<unk>',
-    '/storage/ukp/shared/shared_model_weights/models--llama-2-hf/13B-Chat': '<unk>',
+    'meta-llama/Llama-2-7b-chat-hf': '<unk>',
+    'meta-llama/Llama-2-13b-chat-hf': '<unk>'
 }
 
 pad_ids = {
@@ -46,11 +43,8 @@ pad_ids = {
     'google/flan-t5-small': 0,
     'google/flan-t5-large': 0,
     'google/flan-t5-xxl': 0,
-    '/storage/ukp/shared/shared_model_weights/models--llama/7B': 0,
-    '/storage/ukp/shared/shared_model_weights/models--llama/13B': 0,
-    '/storage/ukp/shared/shared_model_weights/models--llama/30B': 0,
-    '/storage/ukp/shared/shared_model_weights/models--llama-2-hf/7B-Chat': 0,
-    '/storage/ukp/shared/shared_model_weights/models--llama-2-hf/13B-Chat': 0
+    'meta-llama/Llama-2-7b-chat-hf': 0,
+    'meta-llama/Llama-2-13b-chat-hf': 0
 }
 
 eos_ids = {
@@ -64,11 +58,8 @@ eos_ids = {
     'google/flan-t5-small': 1,
     'google/flan-t5-large': 1,
     'google/flan-t5-xxl': 1,
-    '/storage/ukp/shared/shared_model_weights/models--llama/7B': 2,
-    '/storage/ukp/shared/shared_model_weights/models--llama/13B': 2,
-    '/storage/ukp/shared/shared_model_weights/models--llama/30B': 2,
-    '/storage/ukp/shared/shared_model_weights/models--llama-2-hf/7B-Chat': 2,
-    '/storage/ukp/shared/shared_model_weights/models--llama-2-hf/13B-Chat': 2
+    'meta-llama/Llama-2-7b-chat-hf': 2,
+    'meta-llama/Llama-2-13b-chat-hf': 2
 }
 
 prompts = {
