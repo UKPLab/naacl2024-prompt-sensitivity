@@ -10,6 +10,13 @@ https://www.ukp.tu-darmstadt.de/
 
 https://www.tu-darmstadt.de/
 
+## Getting started
+Prepare the environment:
+
+```python
+pip install -r requirements.txt
+```
+
 ## Inference
 See [inference.ipynb](https://github.com/boblus/prompt-sensitivity/blob/main/inference.ipynb) for the inference code.
 
