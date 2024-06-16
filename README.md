@@ -33,11 +33,22 @@ See [evaluation_scores.csv](https://github.com/UKPLab/naacl2024-prompt-sensitivi
 Please use the following citation:
 
 ```
-@article{lu2023prompts,
-  title={How are Prompts Different in Terms of Sensitivity?},
-  author={Lu, Sheng and Schuff, Hendrik and Gurevych, Iryna},
-  journal={arXiv preprint arXiv:2311.07230},
-  year={2023}
+@inproceedings{lu-etal-2024-prompts,
+    title = "How are Prompts Different in Terms of Sensitivity?",
+    author = "Lu, Sheng  and
+      Schuff, Hendrik  and
+      Gurevych, Iryna",
+    editor = "Duh, Kevin  and
+      Gomez, Helena  and
+      Bethard, Steven",
+    booktitle = "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.naacl-long.325",
+    pages = "5833--5856",
+    abstract = "In-context learning (ICL) has become one of the most popular learning paradigms. While there is a growing body of literature focusing on prompt engineering, there is a lack of systematic analysis comparing the effects of prompt techniques across different models and tasks. To address this, we present a comprehensive prompt analysis based on sensitivity. Our analysis reveals that sensitivity is an unsupervised proxy for model performance, as it exhibits a strong negative correlation with accuracy. We use gradient-based saliency scores to empirically demonstrate how different prompts affect the relevance of input tokens to the output, resulting in different levels of sensitivity. Furthermore, we introduce sensitivity-aware decoding which incorporates sensitivity estimation as a penalty term in the standard greedy decoding. We show that this approach is particularly helpful when information in the input is scarce. Our work provides a fresh perspective on the analysis of prompts, and contributes to a better understanding of the mechanism of ICL.",
 }
 ```
 
